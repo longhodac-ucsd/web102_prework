@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='/assets/codepath-prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with screenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the intructions like the one is #5 and #6 were a bit confusing but I eventually figure out what they were saying.
 
 ## License
 

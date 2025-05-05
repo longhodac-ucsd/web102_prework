@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - *Games Fundraiser*
 
 Submitted by: **Long HoDac**
 

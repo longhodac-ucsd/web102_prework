@@ -9,6 +9,14 @@ body {
     width: 50px;
 }
 
+#game-search {
+    margin-left: auto;         
+    padding: 0.5rem;           
+    border-radius: 4px;         
+    border: 1px solid #ccc;     
+    font-family: 'Cabin';      
+  }
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -21,6 +29,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
